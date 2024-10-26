@@ -9,8 +9,8 @@ description: >- # This will appear in search engine results and the feed.xml sit
   and inspiration.
 baseurl: "" # Optional subpath of your site (e.g., /blog)
 url: "https://freesynth.org" # Base URL for the site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: adnjoo
+github_username:  andrewnjoo
 
 # Build settings
 theme: minima
